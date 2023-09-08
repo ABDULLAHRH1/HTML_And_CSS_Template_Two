@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/web1.png" alt="Project Screenshot" />
+  <img src="images/web2.png" alt="Project Screenshot" />
 </p>
 
 <h1 align="center">My Super Cool Website</h1>
@@ -30,4 +30,4 @@
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/ABDULLAHRH1/HTML_And_CSS_Template_Two.git
